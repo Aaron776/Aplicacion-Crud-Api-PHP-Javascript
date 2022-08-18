@@ -1,0 +1,1 @@
+en este ejercico stoy usando un api de php el cual se encuentra en la caperta xammp, en la carpeta htdocs y se llama index_empleados.php, estarchi contiene la conexion a la base de datos y las diferentes consultas sql
